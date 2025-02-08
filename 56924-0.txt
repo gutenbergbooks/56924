@@ -1,30 +1,7 @@
-Project Gutenberg's German Influence on British Cavalry, by Erskine Childers
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org/license
-
-
-Title: German Influence on British Cavalry
-
-Author: Erskine Childers
-
-Release Date: April 5, 2018 [EBook #56924]
-
-Language: English
-
-Character set encoding: ISO-8859-1
-
-*** START OF THIS PROJECT GUTENBERG EBOOK GERMAN INFLUENCE ***
+*** START OF THE PROJECT GUTENBERG EBOOK 56924 ***
 
 
 
-
-Produced by Brian Coe, Graeme Mackreth and the Online
-Distributed Proofreading Team at http://www.pgdp.net (This
-file was produced from images generously made available
-by The Internet Archive)
 
 
 
@@ -74,7 +51,7 @@ publication of "War and the _Arme Blanche_," General von Bernhardi
 published in Germany his "Reiterdienst," and an English edition,
 translated by Major G.T.M. Bridges, D.S.O., under the title "Cavalry
 in War and Peace," appeared simultaneously in this country. Like its
-predecessor, "Unsere Kavallerie im n鋍hsten Kriege" (translated under
+predecessor, "Unsere Kavallerie im n盲chsten Kriege" (translated under
 the title "Cavalry in Future Wars"), this new book by General von
 Bernhardi was headed with a highly laudatory Preface from the pen of
 General Sir John French, who commended it to military students in this
@@ -793,7 +770,7 @@ which the judgment of the reader as to the efficacy of the steel must
 depend, are omitted. There are no figures of relative numbers, no
 times, no description of the terrain, no statement of casualties. I
 will instance only one, but the greatest, error of fact. He writes that
-"the r鬺e of the Cavalry division was to bring pressure to bear on
+"the r么le of the Cavalry division was to bring pressure to bear on
 the right flank of the Boer army, in order to enable Lord Roberts to
 advance across the river and attack the main Boer forces."
 
@@ -927,7 +904,7 @@ We are left in ignorance. The physical problem is untouched. All we
 have is the bare dogmatic assertion that the steel weapon can impose
 tactics on the rifle. This is how Sir John French expresses the theory
 on p. xi of his Introduction: "Were we to do so" (_i.e._, to "throw
-our cold steel away as useless lumber"), "we should invert the r鬺e
+our cold steel away as useless lumber"), "we should invert the r么le
 of Cavalry, turn it into a _defensive_ arm, and make it a prey to the
 first foreign Cavalry that it meets; for good Cavalry can always compel
 a dismounted force of mounted riflemen to mount and ride away, and when
@@ -970,7 +947,7 @@ Such a travesty of the war may be left to speak for itself. But it is
 very important to comprehend the root idea which underlies it, an idea
 which, as we shall see, reappears in a less extreme form in General von
 Bernhardi's writings. It is expressed in the words "we should invert
-the r鬺e of Cavalry, turn it into a defensive arm." The rifle, it will
+the r么le of Cavalry, turn it into a defensive arm." The rifle, it will
 be seen, is regarded as a _defensive_ weapon, in contradistinction
 to the lance and sword, which are offensive weapons. To sustain this
 theory, it is absolutely necessary, of course, to proceed to the
@@ -984,7 +961,7 @@ of soldiers are contradictions in terms.
 
 There must be two parties to every combat, and, unless there is
 perfect equilibrium in combat, one side or the other must definitely
-be playing an offensive r鬺e; and, even in equilibrium, both sides
+be playing an offensive r么le; and, even in equilibrium, both sides
 may be said to be as much in offence as in defence, whatever weapons
 they are using. The facts mainly illustrate the abstract principle.
 The Boers could not have taken guns and prisoners while acting on the
@@ -1224,7 +1201,7 @@ is overthrown." On page xiv, speaking of raids, which he deprecates,
 he says: "Every plan should be subordinate to what I consider a
 primary necessity--the absolute and complete overthrow of the hostile
 Cavalry"; and on page xv: "If the enemy's Cavalry has been overthrown,
-the r鬺e of reconnaissance will have been rendered easier," a truism
+the r么le of reconnaissance will have been rendered easier," a truism
 upon which the Boer War throws a painfully ironical sidelight.
 
 If the reader is puzzled by this curiously superfluous insistence on
@@ -1241,7 +1218,7 @@ hands of Infantry, if not a far more formidable weapon. He therefore
 instinctively tends to picture steel-armed Cavalry as perpetually
 pitted against steel-armed Cavalry. Both sides are always in offence
 until the moment when one is "completely and absolutely overthrown."
-Then some other r鬺es, very vaguely delineated, open up to the victor.
+Then some other r么les, very vaguely delineated, open up to the victor.
 Needless to say, this picture bears no resemblance to war. Troops are
 not, by mutual agreement, sorted out into classes, like competitors in
 athletic sports. Every Arm must be prepared to meet at any moment any
@@ -1515,7 +1492,7 @@ War was over, but in one of the last essays written before his death
 he told the Cavalry that shock was extinct. "Critics of the Cavalry
 work in South Africa," he says, "do not seem to have realized that the
 small bore and smokeless powder have destroyed the last vestiges of the
-traditional r鬺e of Cavalry" ("Science of War," p. 376).
+traditional r么le of Cavalry" ("Science of War," p. 376).
 
 It can be readily understood, therefore, that to refer our Cavalry of
 the present day to Colonel Henderson's brilliant and learned writings
@@ -1759,9 +1736,9 @@ assumptions" and of its total unpreparedness for real war. The framers
 of the Regulations have only to point to this passage, and then, with
 perfect justice, to consign all the General's tirades first to mockery
 and then to oblivion. Sir John French, again more reactionary than his
-German confr鑢e, seizes on this passage, to the exclusion of all which
+German confr猫re, seizes on this passage, to the exclusion of all which
 contradict it, and triumphantly produces his own analogous formula. To
-neglect the steel, he says, is to "invert the r鬺e of Cavalry, and turn
+neglect the steel, he says, is to "invert the r么le of Cavalry, and turn
 it into a defensive arm."
 
 While Sir John French sticks to his point, and elaborates it even
@@ -1772,15 +1749,15 @@ rifle" on foot. We obtain, perhaps, the best insight into his method
 of reasoning in A II. ("Attack and Defence"). On p. 112 he says that
 Cavalry should "endeavour to preserve their mobility in the fight,
 and that mounted shock-action, _therefore_, should be regarded as its
-proper r鬺e in battle." This quotation is an excellent one for the
+proper r么le in battle." This quotation is an excellent one for the
 advocates of the steel, but it would reduce to impotence any Cavalry
 which acted upon it. And we ask immediately, what is the sense of
-calling shock the "proper r鬺e" of Cavalry, when, according to the
+calling shock the "proper r么le" of Cavalry, when, according to the
 author himself, it is only to be used in exceptional cases, even in
 fights of the independent Cavalry, and when riflemen, who advance
 dismounted, can render it impracticable? Why not say at once that the
-proper or normal r鬺e of Cavalry is fire-action, and the exceptional
-or abnormal r鬺e shock-action?
+proper or normal r么le of Cavalry is fire-action, and the exceptional
+or abnormal r么le shock-action?
 
 The fallacy, of course, lies in the word I have italicized,
 "therefore," implying that mounted action and shock-action are
@@ -1801,7 +1778,7 @@ mounted or dismounted, but whether they are prepared and determined to
 take their share in the decision of an encounter, and to employ the
 whole of their strength _and mobility_ to that end." That is plain
 common sense; but how is he to get it acted upon by a Cavalry to whom
-the very idea is strange if he calls shock the "proper r鬺e" of
+the very idea is strange if he calls shock the "proper r么le" of
 Cavalry, and contrasts the "offensive spirit" inherent in it with the
 defensive use of the rifle?
 
@@ -1874,8 +1851,8 @@ the further operative value of the force_." Men who read that will
 say: "Why waste time at all, then?" It is in flagrant contradiction,
 of course, with his previously expressed principle that hostile
 fire imposes fire-action on Cavalry; that there is no choice; that,
-whether they like it or not, they _must_ engage in this r鬺e, which,
-nevertheless, is not their "proper r鬺e." The clue to the confusion, as
+whether they like it or not, they _must_ engage in this r么le, which,
+nevertheless, is not their "proper r么le." The clue to the confusion, as
 always, is his view, founded on mere word-play, that mounted action is
 unthinkable without shock with steel weapons.
 
@@ -1910,7 +1887,7 @@ If the words "attack" and "defence" have a fatal fascination for both
 the German and the British authors, General von Bernhardi is equally
 influenced by another verbal formula, and that is "the combination
 of Cavalry combat" (or, what is the same thing to him, mounted
-combat--that is, shock-combat) "with dismounted fighting." "The r鬺e
+combat--that is, shock-combat) "with dismounted fighting." "The r么le
 of Cavalry in the fight will then apparently consist," he says on
 page 106, "of a combination of the various methods of fighting."
 It is a tempting formula, tempting by its very vagueness, and
@@ -2072,7 +2049,7 @@ paradox to hear him calling upon the shades of "Frederick the Great,
 Seydlitz, and the prominent Napoleonic leaders," after saying at the
 beginning of the book that the wars of these heroes "presented a total
 absence of analogy" to modern Cavalry students. Reverting suddenly to
-common sense, he goes on to denounce the rally from the m阬閑, which
+common sense, he goes on to denounce the rally from the m锚l茅e, which
 all Cavalry, including our own, assiduously practise in peace. The
 motive for this wonderful manoeuvre is "that troops may quickly be got
 in hand ready to be led against a fresh foe." "It is astounding," he
@@ -2112,7 +2089,7 @@ envisages (p. 230) what is, of course, the invariable case, when "total
 uncertainty prevails as to whether the combat will be carried out
 mounted or dismounted," and says that in such cases there can be no
 "stereotyped tactical formations either of units or of smaller bodies
-within them." "Cadit qu鎠tio," we exclaim, with relief. Why appeal to
+within them." "Cadit qu忙stio," we exclaim, with relief. Why appeal to
 Frederick the Great?
 
 In "Formations for Movement" (pp. 232-238) he continues his unconscious
@@ -2234,7 +2211,7 @@ attitude of Cavalrymen towards that arbiter of modern war, the rifle.
 
 All turns on the magical word "Cavalry," which derives its significance
 from the _arme blanche_. Those weapons give Cavalry their "proper
-r鬺e." If under stress of fire they "abandon" this r鬺e, they become
+r么le." If under stress of fire they "abandon" this r么le, they become
 Infantry; but they are worse off than Infantry, because they are
 embarrassed by their led horses, which present difficulties from which
 Infantry are free. The horse becomes a danger and an encumbrance,
@@ -2293,8 +2270,8 @@ Regulations, as he says, are "not suitable for real war," neither is
 his counsel of despair. The chapter is quite enough to cure the most
 liberal-minded Cavalryman of his last lingering inclination towards
 fire-action, even though he is told that fire-action _must_ be used
-in all but "exceptional cases." "Abandon my proper r鬺e for this?" he
-might answer. "No. My proper r鬺e is good enough for me, as it was good
+in all but "exceptional cases." "Abandon my proper r么le for this?" he
+might answer. "No. My proper r么le is good enough for me, as it was good
 enough for Frederick the Great."
 
 There is worse to come; but let me comment here upon the astounding
@@ -2744,7 +2721,7 @@ that at Sannah's Post? They found, indeed, how "critical a matter" it
 is to remount when pressed by the enemy, for the Boers charged right
 into them again and again; but they did not flinch, and they saved
 their column from ruin, while the Cavalry engaged, equally brave men,
-but ignorant of their true r鬺e in war, failed in the task set them.
+but ignorant of their true r么le in war, failed in the task set them.
 But all this is "abnormal," Sir John French would say. A respectable
 hostile Cavalry would have summoned us to knightly combats with the
 steel.
@@ -2752,7 +2729,7 @@ steel.
 And then (on p. 184) we come, as usual, to the corresponding _reductio
 ad absurdum_. "In mounted combat [_i.e._, with the steel] the breaking
 off of the fight is quite impossible. Troops once engaged must carry
-the fight through. Even when retreating from the m阬閑 fighting Cavalry
+the fight through. Even when retreating from the m锚l茅e fighting Cavalry
 has no means of extricating itself. It is then entirely dependent on
 the enemy, and can only retire at the most rapid speed," etc. "Whoever
 expects to rally a beaten Cavalry division after a mounted fight by
@@ -2881,7 +2858,7 @@ aimed at is the defeat of the hostile Cavalry, and a premature opening
 of fire is liable to cause it to draw off and manoeuvre, in order
 to bring off the Cavalry encounter outside effective rifle-range."
 Surely some humorist of the Mounted Infantry, coerced by the General
-Staff into finding a r鬺e for his Arm which should not trench upon the
+Staff into finding a r么le for his Arm which should not trench upon the
 sacred preserves of the Cavalry, penned these exquisite lines by way
 of stealthy revenge! What delicate consideration for the "knightly"
 weapons! What an eye for theatrical effect! What precautions against
@@ -3152,8 +3129,8 @@ the column of supply, the heavy Artillery, etc." "It is here that
 opportunities for decisive action must be sought." Well, obviously
 that is a different proposition altogether. Why not have begun with
 it? Habit--just the irresistible habit of associating Cavalry with
-shock, and of calling shock their "proper r鬺e," although it is only
-their "exceptional" r鬺e. For, of course, such action as the author
+shock, and of calling shock their "proper r么le," although it is only
+their "exceptional" r么le. For, of course, such action as the author
 now indicates is purely a matter of fire. That is why no such decisive
 attack upon the rear of a great Army has ever in recent times been
 accomplished by European Cavalry. The Cavalries of the sixties and
@@ -3220,7 +3197,7 @@ out of all the multitude of topics dealt with in the two books, Sir
 John French "ventures to differ" from the German author, pronouncing,
 for his own part, against them. Von Bernhardi expressly founds his
 advocacy of the raid on the American Civil War. "The idea," he says
-na飗ely, "is taken" from that war. As though the Boers who made the
+na茂vely, "is taken" from that war. As though the Boers who made the
 raids of 1901, of which he never seems to have heard, took their ideas
 from that war or any other! Their ideas were the fruit of their own
 common sense. Now, the Civil War is particularly dangerous ground in
@@ -3235,12 +3212,12 @@ great Army from which my digression originated. The weapon factor is
 precisely the same in both. Rifles are rifles and lances are lances,
 whatever the strategical or tactical scheme which bring them into play.
 
-We turn lastly to the r鬺e of that portion of theoretically
+We turn lastly to the r么le of that portion of theoretically
 indivisible Cavalry mass which is maintained as a "reserve behind the
 front" (p. 204). The author's method is the same: first, to expound
 at length the duties and powers of this body as though they were its
 normal duties and powers, and then to state that these normal duties
-and powers--in other words, the "proper r鬺e"--of the force concerned
+and powers--in other words, the "proper r么le"--of the force concerned
 are, in nine cases out of ten, impracticable and visionary. He first
 represents the great mounted charge as the primary object, the great
 mounted charge, moreover, against _Infantry_; for in this case there
@@ -3282,10 +3259,10 @@ ancient lesson of Fredericksburg. But it is now 1911. And we know what
 the author's views of the fire-fight for Cavalry are--that, owing to
 the burden of led horses, it is never on any account to be attempted,
 unless there is an assurance of complete moral, tactical, and numerical
-superiority. _Cadit qu鎠tio_ once more. Our reserve becomes a dummy.
+superiority. _Cadit qu忙stio_ once more. Our reserve becomes a dummy.
 
 There remain two topics in connection with the great pre-arranged
-battle of all arms--"Pursuit and Retreat" and the "R鬺e of the
+battle of all arms--"Pursuit and Retreat" and the "R么le of the
 Divisional Cavalry." I shall take the latter first, and, with little
 comment, merely appeal to the reader's sense of humour. "In the battle
 of all arms," says the General, "as soon as fighting contact has been
@@ -3418,7 +3395,7 @@ Independent Cavalry has defeated its opponent," etc., and from that
 point onwards nothing is heard of the hostile Independent Cavalry.
 The explanation of Sir John French's expression is the same. On p.
 xv he, too, assumes that _before the battle_ the hostile Cavalry has
-been disposed of, and says, somewhat vaguely, that the "true r鬺e
+been disposed of, and says, somewhat vaguely, that the "true r么le
 of Cavalry on the battle-field is to reconnoitre, to deceive, and
 finally to support"--functions which he distinctly suggests should be
 carried out mainly through fire-action by troops "accustomed to act
@@ -3429,7 +3406,7 @@ of a double reconnaissance, distant and close, along the whole
 battle-front; nor, we may add, of his injunction to "occupy defiles and
 other important places to the flanks and front" of the Army.
 
-The r鬺es suggested for the flank Cavalry mass are:
+The r么les suggested for the flank Cavalry mass are:
 
 1. To "act against the enemy's flanks."
 
@@ -3484,7 +3461,7 @@ is advocated in set terms by no rational being. It has not even been
 tried or contemplated since 1870. We know that the widely extended type
 has shared the fate of the other, because, with the loss of physical
 "shock," the steel weapons have lost their whole historical _raison
-d'阾re_. The only practicable mounted charge known to modern war is
+d'锚tre_. The only practicable mounted charge known to modern war is
 that of the mounted riflemen, who _fight up to the charge_, and use the
 only weapon which is effective against riflemen--namely, the rifle,
 fortified, if need be, by the bayonet. This charge is not an essential
@@ -3531,7 +3508,7 @@ Teach Cavalry that their lances and swords are their principal weapons,
 and that the rifle is a defensive weapon; tell them that the "climax of
 training" is the steel charge, "since upon it depends the final result
 of the battle"; found their "spirit" on the steel; make it in theory
-their "proper r鬺e"; give it a vocabulary of stirring epithets, like
+their "proper r么le"; give it a vocabulary of stirring epithets, like
 "glorious," "relentless," "remorseless," and all the rest, and they are
 only too likely, eager for battle as they are, to "wait for favourable
 opportunities" which will never occur, when they ought to be busy and
@@ -3556,7 +3533,7 @@ ought to be able to fight a rearguard action better than Infantry,
 because, thanks to their mobility, they can choose defensive points
 more freely, hold them longer, and fall back to others quicker. But
 if they are taught that it is beneath them to entrench and to defend
-a fire-position with stubborn tenacity, and that their proper r鬺e is
+a fire-position with stubborn tenacity, and that their proper r么le is
 to be performing Frederician fantasias with the lance and sword, then
 they are likely, "in real war," to be relegated to a sphere "outside
 effective rifle-range," and to find their place usurped by Infantry
@@ -3587,7 +3564,7 @@ weapons, and can apply our criticisms to these chapters.
 Combat and weapons are not wholly overlooked. At the very outset comes
 the maxim which I quoted further back, to the effect that "the essence
 of Cavalry lies in the offensive," and that for defence they are to
-"abandon their proper r鬺e and seize the rifle on foot." The reader
+"abandon their proper r么le and seize the rifle on foot." The reader
 can appreciate now the value of this maxim, when we are dealing, as
 the author in these chapters is dealing, with two opposing Cavalries
 who are assumed to be acting against one another independently of
@@ -3599,7 +3576,7 @@ their antagonists also to relinquish shock as useless and to seize the
 rifle, they might as well not seize it at all. If they can force their
 antagonists to seize it--and the whole mass of modern experience shows
 that they can and do--then their antagonists, whether we call their
-r鬺e proper or improper, are acting in _offence_ with the firearm, and
+r么le proper or improper, are acting in _offence_ with the firearm, and
 the maxim is stultified--as, indeed, any maxim which applies medieval
 language to modern problems must be stultified. Experience shows that
 if you arm men with long-range, smokeless, accurate missile weapons,
@@ -3646,7 +3623,7 @@ or sword; that in reconnaissance no Boer ever came near being hurt by
 those weapons; and, furthermore, that the Cavalry were consistently
 and thoroughly outmatched in reconnaissance, which was governed
 universally by the rifle. It was exactly the same in Manchuria. Instead
-of reminding his German _confr鑢e_ of these facts, Sir John French
+of reminding his German _confr猫re_ of these facts, Sir John French
 complains that the difficulty of the Cavalry in South Africa was that
 they had nothing to reconnoitre, while he implicitly approves and
 applauds the conception of the reflective charging patrol.
@@ -3862,7 +3839,7 @@ in its character as veil, and reappears as a "concentrated" mass.
 "The principal task of the offensive screen is to defeat the hostile
 Cavalry, and for this object all available force must be concentrated,
 for one cannot be strong upon the field of battle" (p. 87). It is
-amazing that serious exponents of any _m閠ier_ should write in this
+amazing that serious exponents of any _m茅tier_ should write in this
 fashion. A concentrated screen is a contradiction in terms.
 
 Once committed, however, the General persists. All cyclist detachments
@@ -4005,7 +3982,7 @@ forth by General von Bernhardi. Their leaders now are the sole official
 repositories of what is really our great national tradition for mounted
 troops in civilized war; for the steel tradition is a legend dating
 from Balaclava, a battle which is scarcely more relevant to modern
-needs than Cr閏y--and Cr閏y, by the way, was one of the greatest of all
+needs than Cr茅cy--and Cr茅cy, by the way, was one of the greatest of all
 the historic triumphs of missile weapons over shock. It was not the
 lack of swords and lances, but the possession of swords and lances,
 which tended to turn men into "trussed chickens" in South Africa and
@@ -4036,7 +4013,7 @@ on the rolling downs of Salisbury or Lambourne?
 FOOTNOTES:
 
 [Footnote 5: See "Cavalry Training," p. 194. "It will thus gain freedom
-to carry out its ultimate r鬺e of reconnaissance." See also p. 196,
+to carry out its ultimate r么le of reconnaissance." See also p. 196,
 where the principle is repeated with emphasis, an exception being made
 in favour of the case where the enemy's Cavalry is outside the zone of
 operations!]
@@ -4064,7 +4041,7 @@ this remarkable admission. My book, "War and the _Arme Blanche_," was
 published in March, 1910, a month before the publication in England of
 his own second work, "Cavalry in War and Peace," whose consideration we
 have just concluded. In the course of the summer of 1910 the General
-published a series of articles in the _Milit鋜 Wochenblatt_ criticizing
+published a series of articles in the _Milit盲r Wochenblatt_ criticizing
 my book, and those articles were translated and printed in the _Cavalry
 Journal_ of October, 1910.
 
@@ -4241,7 +4218,7 @@ the question of physical combat--as, for example, where he says that
 the Boers "fought entirely with the rifle, and this the mounted
 troops of England had to learn," "that the Boers were far superior in
 the fire-fight," that the absence of "Cavalry duels" in South Africa
-was caused (mark this deliciously na飗e admission) by the fact of the
+was caused (mark this deliciously na茂ve admission) by the fact of the
 armament and the numerical weakness of the Boers--he is on my side.
 And I need scarcely add that the reader will find it easy to demolish
 the General's whole dream of the lost opportunities of the lance and
@@ -4281,7 +4258,7 @@ remarkable _volte face_:
 
 Well, that is precisely what Lord Roberts, the greatest soldier living,
 and many humbler persons, including myself, have contended for. _Cadit
-qu鎠tio._ Why not have begun "Cavalry in War and Peace" with these
+qu忙stio._ Why not have begun "Cavalry in War and Peace" with these
 illuminating axioms? Why not have them placed in the forefront of our
 own Cavalry Manual, in the approaching revision of that important work?
 Why give the dominating operative weapon only 10 or 15 per cent. of
@@ -4534,7 +4511,7 @@ use of two weapons so different as the sword and the rifle, and, in
 deciding for the former, frankly admits that, after the experience of
 Manchuria, Cavalry have no business within the zone of fire. The views
 and practice of the French Cavalry may be learnt from the scathing
-exposure to which they have been submitted by General de N間rier. Our
+exposure to which they have been submitted by General de N茅grier. Our
 Cavalry, excessive as its reliance on the steel is, stands, of course,
 in the matter of fire-action, ahead of all Continental rivals.
 
@@ -4585,7 +4562,7 @@ indeed over. Nobody should regret it. What is there to regret?
 But let me repeat one last caution. It is a harmful result of this
 otherwise healthy controversy that we tend to argue too much in terms
 of the "charge," meaning the mounted charge, culminating in a fight at
-close quarters, or even in a m阬閑. For all we know, future science,
+close quarters, or even in a m锚l茅e. For all we know, future science,
 by making it a sheer impossibility to get so large an object as a
 horse through a fire-zone, may eventually render such an attack by
 horsemen, in whatever formation and with whatever weapon, altogether
@@ -4881,7 +4858,7 @@ TRAVEL AND SPORT.
  TWENTY YEARS IN THE HIMALAYA. By Major the Hon. C.G. Bruce, M.V.O.,
  Fifth Gurkha Rifles. With Map. Fully Illustrated. 16s. net.
 
-"The book is interesting from start to finish."--_Athen鎢m._
+"The book is interesting from start to finish."--_Athen忙um._
 
 "A series of pen-pictures, in the terse, forcible English of the
 soldier, of travel and residence, of sport and exploration in those
@@ -5094,366 +5071,4 @@ LONDON: EDWARD ARNOLD, 41 & 43 MADDOX STREET, W.
 End of the Project Gutenberg EBook of German Influence on British Cavalry, by 
 Erskine Childers
 
-*** END OF THIS PROJECT GUTENBERG EBOOK GERMAN INFLUENCE ***
-
-***** This file should be named 56924-8.txt or 56924-8.zip *****
-This and all associated files of various formats will be found in:
-        http://www.gutenberg.org/5/6/9/2/56924/
-
-Produced by Brian Coe, Graeme Mackreth and the Online
-Distributed Proofreading Team at http://www.pgdp.net (This
-file was produced from images generously made available
-by The Internet Archive)
-
-
-Updated editions will replace the previous one--the old editions
-will be renamed.
-
-Creating the works from public domain print editions means that no
-one owns a United States copyright in these works, so the Foundation
-(and you!) can copy and distribute it in the United States without
-permission and without paying copyright royalties.  Special rules,
-set forth in the General Terms of Use part of this license, apply to
-copying and distributing Project Gutenberg-tm electronic works to
-protect the PROJECT GUTENBERG-tm concept and trademark.  Project
-Gutenberg is a registered trademark, and may not be used if you
-charge for the eBooks, unless you receive specific permission.  If you
-do not charge anything for copies of this eBook, complying with the
-rules is very easy.  You may use this eBook for nearly any purpose
-such as creation of derivative works, reports, performances and
-research.  They may be modified and printed and given away--you may do
-practically ANYTHING with public domain eBooks.  Redistribution is
-subject to the trademark license, especially commercial
-redistribution.
-
-
-
-*** START: FULL LICENSE ***
-
-THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg-tm mission of promoting the free
-distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase "Project
-Gutenberg"), you agree to comply with all the terms of the Full Project
-Gutenberg-tm License (available with this file or online at
-http://gutenberg.org/license).
-
-
-Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
-electronic works
-
-1.A.  By reading or using any part of this Project Gutenberg-tm
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement.  If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or destroy
-all copies of Project Gutenberg-tm electronic works in your possession.
-If you paid a fee for obtaining a copy of or access to a Project
-Gutenberg-tm electronic work and you do not agree to be bound by the
-terms of this agreement, you may obtain a refund from the person or
-entity to whom you paid the fee as set forth in paragraph 1.E.8.
-
-1.B.  "Project Gutenberg" is a registered trademark.  It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement.  There are a few
-things that you can do with most Project Gutenberg-tm electronic works
-even without complying with the full terms of this agreement.  See
-paragraph 1.C below.  There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this agreement
-and help preserve free future access to Project Gutenberg-tm electronic
-works.  See paragraph 1.E below.
-
-1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
-or PGLAF), owns a compilation copyright in the collection of Project
-Gutenberg-tm electronic works.  Nearly all the individual works in the
-collection are in the public domain in the United States.  If an
-individual work is in the public domain in the United States and you are
-located in the United States, we do not claim a right to prevent you from
-copying, distributing, performing, displaying or creating derivative
-works based on the work as long as all references to Project Gutenberg
-are removed.  Of course, we hope that you will support the Project
-Gutenberg-tm mission of promoting free access to electronic works by
-freely sharing Project Gutenberg-tm works in compliance with the terms of
-this agreement for keeping the Project Gutenberg-tm name associated with
-the work.  You can easily comply with the terms of this agreement by
-keeping this work in the same format with its attached full Project
-Gutenberg-tm License when you share it without charge with others.
-
-1.D.  The copyright laws of the place where you are located also govern
-what you can do with this work.  Copyright laws in most countries are in
-a constant state of change.  If you are outside the United States, check
-the laws of your country in addition to the terms of this agreement
-before downloading, copying, displaying, performing, distributing or
-creating derivative works based on this work or any other Project
-Gutenberg-tm work.  The Foundation makes no representations concerning
-the copyright status of any work in any country outside the United
-States.
-
-1.E.  Unless you have removed all references to Project Gutenberg:
-
-1.E.1.  The following sentence, with active links to, or other immediate
-access to, the full Project Gutenberg-tm License must appear prominently
-whenever any copy of a Project Gutenberg-tm work (any work on which the
-phrase "Project Gutenberg" appears, or with which the phrase "Project
-Gutenberg" is associated) is accessed, displayed, performed, viewed,
-copied or distributed:
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org/license
-
-1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
-from the public domain (does not contain a notice indicating that it is
-posted with permission of the copyright holder), the work can be copied
-and distributed to anyone in the United States without paying any fees
-or charges.  If you are redistributing or providing access to a work
-with the phrase "Project Gutenberg" associated with or appearing on the
-work, you must comply either with the requirements of paragraphs 1.E.1
-through 1.E.7 or obtain permission for the use of the work and the
-Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
-1.E.9.
-
-1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
-terms imposed by the copyright holder.  Additional terms will be linked
-to the Project Gutenberg-tm License for all works posted with the
-permission of the copyright holder found at the beginning of this work.
-
-1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg-tm.
-
-1.E.5.  Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
-Gutenberg-tm License.
-
-1.E.6.  You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including any
-word processing or hypertext form.  However, if you provide access to or
-distribute copies of a Project Gutenberg-tm work in a format other than
-"Plain Vanilla ASCII" or other format used in the official version
-posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
-you must, at no additional cost, fee or expense to the user, provide a
-copy, a means of exporting a copy, or a means of obtaining a copy upon
-request, of the work in its original "Plain Vanilla ASCII" or other
-form.  Any alternate format must include the full Project Gutenberg-tm
-License as specified in paragraph 1.E.1.
-
-1.E.7.  Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg-tm works
-unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8.  You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works provided
-that
-
-- You pay a royalty fee of 20% of the gross profits you derive from
-     the use of Project Gutenberg-tm works calculated using the method
-     you already use to calculate your applicable taxes.  The fee is
-     owed to the owner of the Project Gutenberg-tm trademark, but he
-     has agreed to donate royalties under this paragraph to the
-     Project Gutenberg Literary Archive Foundation.  Royalty payments
-     must be paid within 60 days following each date on which you
-     prepare (or are legally required to prepare) your periodic tax
-     returns.  Royalty payments should be clearly marked as such and
-     sent to the Project Gutenberg Literary Archive Foundation at the
-     address specified in Section 4, "Information about donations to
-     the Project Gutenberg Literary Archive Foundation."
-
-- You provide a full refund of any money paid by a user who notifies
-     you in writing (or by e-mail) within 30 days of receipt that s/he
-     does not agree to the terms of the full Project Gutenberg-tm
-     License.  You must require such a user to return or
-     destroy all copies of the works possessed in a physical medium
-     and discontinue all use of and all access to other copies of
-     Project Gutenberg-tm works.
-
-- You provide, in accordance with paragraph 1.F.3, a full refund of any
-     money paid for a work or a replacement copy, if a defect in the
-     electronic work is discovered and reported to you within 90 days
-     of receipt of the work.
-
-- You comply with all other terms of this agreement for free
-     distribution of Project Gutenberg-tm works.
-
-1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
-electronic work or group of works on different terms than are set
-forth in this agreement, you must obtain permission in writing from
-both the Project Gutenberg Literary Archive Foundation and Michael
-Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
-Foundation as set forth in Section 3 below.
-
-1.F.
-
-1.F.1.  Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-public domain works in creating the Project Gutenberg-tm
-collection.  Despite these efforts, Project Gutenberg-tm electronic
-works, and the medium on which they may be stored, may contain
-"Defects," such as, but not limited to, incomplete, inaccurate or
-corrupt data, transcription errors, a copyright or other intellectual
-property infringement, a defective or damaged disk or other medium, a
-computer virus, or computer codes that damage or cannot be read by
-your equipment.
-
-1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
-of Replacement or Refund" described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg-tm trademark, and any other party distributing a Project
-Gutenberg-tm electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
-1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from.  If you
-received the work on a physical medium, you must return the medium with
-your written explanation.  The person or entity that provided you with
-the defective work may elect to provide a replacement copy in lieu of a
-refund.  If you received the work electronically, the person or entity
-providing it to you may choose to give you a second opportunity to
-receive the work electronically in lieu of a refund.  If the second copy
-is also defective, you may demand a refund in writing without further
-opportunities to fix the problem.
-
-1.F.4.  Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
-WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
-WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5.  Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of damages.
-If any disclaimer or limitation set forth in this agreement violates the
-law of the state applicable to this agreement, the agreement shall be
-interpreted to make the maximum disclaimer or limitation permitted by
-the applicable state law.  The invalidity or unenforceability of any
-provision of this agreement shall not void the remaining provisions.
-
-1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg-tm electronic works in accordance
-with this agreement, and any volunteers associated with the production,
-promotion and distribution of Project Gutenberg-tm electronic works,
-harmless from all liability, costs and expenses, including legal fees,
-that arise directly or indirectly from any of the following which you do
-or cause to occur: (a) distribution of this or any Project Gutenberg-tm
-work, (b) alteration, modification, or additions or deletions to any
-Project Gutenberg-tm work, and (c) any Defect you cause.
-
-
-Section  2.  Information about the Mission of Project Gutenberg-tm
-
-Project Gutenberg-tm is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of computers
-including obsolete, old, middle-aged and new computers.  It exists
-because of the efforts of hundreds of volunteers and donations from
-people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the
-assistance they need, are critical to reaching Project Gutenberg-tm's
-goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come.  In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future generations.
-To learn more about the Project Gutenberg Literary Archive Foundation
-and how your efforts and donations can help, see Sections 3 and 4
-and the Foundation web page at http://www.pglaf.org.
-
-
-Section 3.  Information about the Project Gutenberg Literary Archive
-Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service.  The Foundation's EIN or federal tax identification
-number is 64-6221541.  Its 501(c)(3) letter is posted at
-http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
-Literary Archive Foundation are tax deductible to the full extent
-permitted by U.S. federal laws and your state's laws.
-
-The Foundation's principal office is located at 4557 Melan Dr. S.
-Fairbanks, AK, 99712., but its volunteers and employees are scattered
-throughout numerous locations.  Its business office is located at
-809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
-business@pglaf.org.  Email contact links and up to date contact
-information can be found at the Foundation's web site and official
-page at http://pglaf.org
-
-For additional contact information:
-     Dr. Gregory B. Newby
-     Chief Executive and Director
-     gbnewby@pglaf.org
-
-
-Section 4.  Information about Donations to the Project Gutenberg
-Literary Archive Foundation
-
-Project Gutenberg-tm depends upon and cannot survive without wide
-spread public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine readable form accessible by the widest
-array of equipment including outdated equipment.  Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
-
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
-States.  Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
-with these requirements.  We do not solicit donations in locations
-where we have not received written confirmation of compliance.  To
-SEND DONATIONS or determine the status of compliance for any
-particular state visit http://pglaf.org
-
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States.  U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg Web pages for current donation
-methods and addresses.  Donations are accepted in a number of other
-ways including checks, online payments and credit card donations.
-To donate, please visit: http://pglaf.org/donate
-
-
-Section 5.  General Information About Project Gutenberg-tm electronic
-works.
-
-Professor Michael S. Hart is the originator of the Project Gutenberg-tm
-concept of a library of electronic works that could be freely shared
-with anyone.  For thirty years, he produced and distributed Project
-Gutenberg-tm eBooks with only a loose network of volunteer support.
-
-
-Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as Public Domain in the U.S.
-unless a copyright notice is included.  Thus, we do not necessarily
-keep eBooks in compliance with any particular paper edition.
-
-
-Most people start at our Web site which has the main PG search facility:
-
-     http://www.gutenberg.org
-
-This Web site includes information about Project Gutenberg-tm,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.
+*** END OF THE PROJECT GUTENBERG EBOOK 56924 ***
